@@ -34,7 +34,10 @@ I allow races with flight speed, but with a slight nerf. This benefit works only
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. I assume you WILL use the revised ranger, as it is strictly speaking better balanced compared to the other classes. Ask me about another brew, and I may expand this list.
 
-**Revised Ranger - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)**<br/>
+**Official Full Classes**<br/>
+Revised Ranger - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)<br/>
+Mystic - [Link](http://www.dmsguild.com/product/213033/Unearthed-Arcana-The-Mystic-Class-5e)<br/>
+Artificer - [Link](http://www.dmsguild.com/product/213032/Unearthed-Arcana-The-Artificer-Class-5e)<br/>
 
 **Official UA**<br/>
 Barbarian Path of the Ancestral Guardian - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
