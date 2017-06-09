@@ -2,6 +2,9 @@
 
 I run 5th edition D&D! If you want a seat at my table feel free to ask! I do have a few guidelines for playing, so just have a look at my rules and guidelines you should look at before coming to the table.
 
+* TOC
+{:toc}
+
 ## My Style
 
 I tend to like a nice, roleplay heavy game. Expect 2-3 combat encounters a night, and a good amount of roleplay. The combats tend to be longer than most other DMs, which is something I am trying to improve on. I also expect that you will probably be keeping notes, and paying attention when it isn't your turn or when you aren't in the spotlight is often necessary.
