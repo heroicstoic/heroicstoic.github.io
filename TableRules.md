@@ -21,7 +21,7 @@ Feel free to use whatever you want out of the PHB (duh). Additionally, there are
 
 Revised Ranger (official UA) - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)
 
-Way of the Four Elements : Remastered (crowdsourced) - [Link](https://drive.google.com/file/d/0B1pdYIcfHauwNDM2My1XeWFYSDA/view?usp=sharing)
+Way of the Four Elements : Remastered (crowdsourced) - [Link](pdf/wayof4elements_remastered.pdf)
 
 ### Using Other Resources
 Feel free to use anything right out of the PHB. When Xanathar's Guide to Everything is released, it will also likely be usable without restriction. In addition, you can use any one officially published hardcover without needing to ask me. If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will consider it.
