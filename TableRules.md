@@ -46,7 +46,7 @@ Paladin Oath of Conquest - [Link](http://media.wizards.com/2017/dnd/downloads/Ju
 Warlock Celestial (these invocations are fine as well) - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
 Sorcerer Favored Soul - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 
-Crowdsourced Homebrews
+**Crowdsourced Homebrews**<br/>
 Monk Way of the Four Elements : Remastered - [Link](pdf/wayof4elements_remastered.pdf)<br/>
 
 ## Etiquitte
