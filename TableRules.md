@@ -18,7 +18,9 @@ Feel free to use anything in the PHB, including variant human, feats, or purchas
 
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. Ask me, and I may expand this list.
+
 Revised Ranger (official UA) - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)
+
 Way of the Four Elements : Remastered (crowdsourced) - [Link](https://drive.google.com/file/d/0B1pdYIcfHauwNDM2My1XeWFYSDA/view?usp=sharing)
 
 ### Using Other Resources
