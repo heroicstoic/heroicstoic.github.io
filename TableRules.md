@@ -22,7 +22,15 @@ I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Ad
 4d6 drop the lowest, in order. If you don't have 2 stats greater than or equal to 15, reroll them all. If you have no stat lower than 8, your lowest stat becomes an 8. If your lowest stat is CON, and it is less than 8, you may switch it with your next lowest stat.
 
 ### Using Other Resources
-Feel free to use anything right out of the PHB. When Xanathar's Guide to Everything is released, it will also likely be usable without restriction. In addition, you can use any one officially published hardcover without needing to ask me. If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will consider it.
+Feel free to use anything right out of the PHB. When Xanathar's Guide to Everything is released, it will also likely be usable without restriction. In addition, you can use any one officially published hardcover or the EE player's companion without needing to ask me. If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will consider it.
+
+### Races
+I allow almost any race in the hardcovers. There are, however, a few caveats.
+
+If you use Volo's, I would rather you didn't use the monsterous races. You can use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
+
+##### I ALLOW FLIGHT RACES
+
 
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. Ask me, and I may expand this list.
