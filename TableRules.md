@@ -27,10 +27,9 @@ Feel free to use anything right out of the PHB. When Xanathar's Guide to Everyth
 ### Races
 I allow almost any race in the hardcovers. There are, however, a few caveats.
 
-If you use Volo's, I would rather you didn't use the monsterous races. You can use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
+If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
 
-##### I ALLOW FLIGHT RACES
-
+I allow races with flight speed, but with a slight nerf. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft. (Pulled from Eagle Totem barbarian)
 
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. Ask me, and I may expand this list.
