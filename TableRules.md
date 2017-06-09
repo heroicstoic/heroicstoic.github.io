@@ -22,7 +22,7 @@ I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Ad
 4d6 drop the lowest, in order. If you don't have 2 stats greater than or equal to 15, reroll them all. If you have no stat lower than 8, your lowest stat becomes an 8. If your lowest stat is CON, and it is less than 8, you may switch it with your next lowest stat.
 
 ### Using Other Resources
-Feel free to use anything right out of the PHB. When Xanathar's Guide to Everything is released, it will also likely be usable without restriction. In addition, you can use any one officially published hardcover or the EE player's companion without needing to ask me. If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will consider it.
+Feel free to use anything right out of the PHB. When Xanathar's Guide to Everything is released, it will also likely be usable without restriction. In addition, you can use any one officially published hardcover or the EE player's companion without needing to ask me. If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will probably let it lay.
 
 ### Races
 I allow almost any race in the hardcovers. There are, however, a few caveats.
@@ -32,10 +32,11 @@ If you use Volo's, I would rather you didn't use the monsterous races. You *can*
 I allow races with flight speed, but with a slight nerf. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft. (Pulled from Eagle Totem barbarian)
 
 ### Classes
-Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. Ask me, and I may expand this list.
+Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. I assume you WILL use the revised ranger, as it is strictly speaking better balanced compared to the other classes. Ask me about another brew, and I may expand this list.
+
+**Revised Ranger - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)**<br/>
 
 **Official UA**<br/>
-Revised Ranger - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)<br/>
 Barbarian Path of the Ancestral Guardian - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 Bard College of Swords - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 Druid Circle of the Shepherd - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
@@ -48,6 +49,9 @@ Sorcerer Favored Soul - [Link](https://media.wizards.com/2017/dnd/downloads/UA-R
 
 **Crowdsourced Homebrews**<br/>
 Monk Way of the Four Elements : Remastered - [Link](pdf/wayof4elements_remastered.pdf)<br/>
+
+### Backgrounds
+I do not care in the slightest if you follow the PHB customization options, or if you use a SCAG background under any circumstances, even if you already are using another source.
 
 ## Etiquitte
 ##### 1) Please be kind to the fellow players and their playstyles
