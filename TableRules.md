@@ -34,8 +34,20 @@ I allow races with flight speed, but with a slight nerf. This benefit works only
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. Ask me, and I may expand this list.
 
-Revised Ranger (official UA) - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)<br/>
-Way of the Four Elements : Remastered (crowdsourced) - [Link](pdf/wayof4elements_remastered.pdf)
+**Official UA**<br/>
+Revised Ranger - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)<br/>
+Barbarian Path of the Ancestral Guardian - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
+Bard College of Swords - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
+Druid Circle of the Shepherd - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
+Fighter Arcane Archer - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
+Fighter Cavalier - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
+Monk Way of the Kensei - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
+Paladin Oath of Conquest - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
+Warlock Celestial (these invocations are fine as well) - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
+Sorcerer Favored Soul - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
+
+Crowdsourced Homebrews
+Monk Way of the Four Elements : Remastered - [Link](pdf/wayof4elements_remastered.pdf)<br/>
 
 ## Etiquitte
 ##### 1) Please be kind to the fellow players and their playstyles
