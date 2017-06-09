@@ -17,7 +17,7 @@ If not, know that I have session 0 to all my campaigns. It is fine to make a cha
 Feel free to use anything in the PHB, including variant human, feats, or purchase for equipment (just use the max possible, only roll if you want). The only exception to this is multiclassing. I find it encourages powergaming more than I would like. As per the statement in the PHB, you need a really, really good reason to multiclass for my campaigns. "More stronk" is not a good reason to me.
 
 ### Stats
-I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Additionally, you may roll for your stats. If you do so, it needs to either be in person, over a live video feed, or on Roll20 chat. The method I use is as follows:
+I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Additionally, you may roll for your stats, in a "consult the bones" fashion. If you do so, it needs to either be in person, over a live video feed, or on Roll20 chat. The method I use is as follows:
 
 4d6 drop the lowest, in order. If you don't have 2 stats greater than or equal to 15, reroll them all. If you have no stat lower than 8, your lowest stat becomes an 8. If your lowest stat is CON, and it is less than 8, you may switch it with your next lowest stat.
 
