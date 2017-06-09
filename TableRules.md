@@ -34,11 +34,8 @@ I allow races with flight speed, but with a slight nerf. This benefit works only
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. Ask me, and I may expand this list.
 
-Revised Ranger (official UA) - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)
-
+Revised Ranger (official UA) - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)<br/>
 Way of the Four Elements : Remastered (crowdsourced) - [Link](pdf/wayof4elements_remastered.pdf)
-
-
 
 ## Etiquitte
 ##### 1) Please be kind to the fellow players and their playstyles
