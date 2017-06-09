@@ -56,6 +56,25 @@ Monk Way of the Four Elements : Remastered - [Link](pdf/wayof4elements_remastere
 ### Backgrounds
 I do not care in the slightest if you follow the PHB customization options, or if you use a SCAG background under any circumstances, even if you already are using another source.
 
+## House Rules
+I try to stick to the Rules As Written (RAW) most of the time. I do not try to "rules lawyer", but if I am not currently DMing (in between games), I will tend to go with the sage advice in most cases.
+
+However, I do like a "Mike Mearls"-esque initiative variant, as it makes DEX less of a god tier stat, and adds a lot of chaos to fights. Here is the simple version. At the start of a turn, decide what you want to do. Each type of action has a particular dice associated with it.
+
+| Moving and/or Free Action | d4 |
+| Bonus Action (not a spell) | d6 |
+| Action (not a spell)| d8 |
+| Bonus Action Spell | d10 |
+| Action Spell | d12 |
+
+Roll all the dice associated with the actions you wish to take, and add them up. You may still only take one action and one bonus action, even if you are casting a spell. Add up the results of all the rolls. Then, I will call out numbers starting at 1 until everyone has gone.
+
+If you need to do more in your turn than you originally planned, roll the required dice and add it to your current total. Once you have rolled a dice, however, you do not get to remove them from the total. For instance, if you wanted to hit a person, but then they moved away, you can roll a d4 to move as well. However, if you were going to move, but the person closes the distance before you get a turn, you do not get to remove the d4 from your total.
+
+You don't need to make a new roll if it is the action category. For instance, if were going to cast Burning Hands, but then decide to cast Magic Missile, you don't have to roll again. If you were going to attack, but then decide to dodge, you do not need to roll again. However, if you were going to attack, and then decide to cast Magic Missile, you do need to roll again.
+
+A few abilities give you a bonus to your initiative. These are handled on a case by case basis. I will provide a conversion page once I have them all prepared.
+
 ## Etiquitte
 ##### 1) Please be kind to the fellow players and their playstyles
 Sometimes the majority of the table wants to chat, but you want to move on to the next combat, or visa versa. Feel free to bring this up after the session, but saying "Can we just fight something?" in the middle of a diplomatic encounter is not appreciated.
