@@ -13,3 +13,12 @@ Ok, now for class information. I know that Sean didn't know about battlemaster, 
 [Fighter](pdf/Fighter.pdf)<br/>
 [Monk](pdf/Monk.pdf)<br/>
 [Way of the Four Elements Rework](pdf/wayof4elements_remastered.pdf)
+
+Now, for the full background information. I have just taken the whole section on this from the PHB, so here it is for you to use.
+
+[Backgrounds](pdf/Background.pdf)
+
+And last, and probably least, I have the item lists for you to look at. This will have both the items you can usually purchase and the trinkets that we roll for. You can pick one at random or have a random number generator make a number between 1 and 100 to pick one for you.
+
+[Items and Equipment](pdf/Weapons.pdf)<br/>
+[Trinkets](pdf/Trinkets.pdf)
