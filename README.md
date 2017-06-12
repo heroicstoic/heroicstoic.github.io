@@ -6,4 +6,4 @@ This website is still under construction. Please understand if there is missing 
 
 [D&D Table Rules](TableRules.md)
 
-[OI! Sean and Javy! Click here for some relevant sheets!](https://www.google.com)
+[OI! Sean and Javy! Click here for some relevant sheets!](Tuesday.md)
