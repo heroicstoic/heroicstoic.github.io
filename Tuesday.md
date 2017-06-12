@@ -13,6 +13,7 @@ Ok, now for class information. I know that Sean didn't know about battlemaster, 
 [Fighter](pdf/Fighter.pdf)<br/>
 [Monk](pdf/Monk.pdf)<br/>
 [Way of the Four Elements Rework](pdf/wayof4elements_remastered.pdf)
+<<<<<<< HEAD:Tuesday.MD
 
 Now, for the full background information. I have just taken the whole section on this from the PHB, so here it is for you to use.
 
@@ -22,3 +23,5 @@ And last, and probably least, I have the item lists for you to look at. This wil
 
 [Items and Equipment](pdf/Weapons.pdf)<br/>
 [Trinkets](pdf/Trinkets.pdf)
+=======
+>>>>>>> 3f9e953c889c90adfe91db0406c111de61382c03:Tuesday.md
