@@ -22,3 +22,7 @@ And last, and probably least, I have the item lists for you to look at. This wil
 
 [Items and Equipment](pdf/Weapons.pdf)<br/>
 [Trinkets](pdf/Trinkets.pdf)
+
+Oh, and if you need it, here is a link to the character sheet I like to use. Enjoy.
+
+[Character Sheet](http://epiclevelgaming.com/wp-content/uploads/2015/01/Alt-5e-character-sheet.pdf)
