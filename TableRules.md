@@ -45,11 +45,14 @@ Artificer - [Link](http://www.dmsguild.com/product/213032/Unearthed-Arcana-The-A
 **Official UA**<br/>
 Barbarian Path of the Ancestral Guardian - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 Bard College of Swords - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
+Cleric Forge Domain - [Link](http://media.wizards.com/2016/dnd/downloads/UA_Cleric.pdf)<br/>
 Druid Circle of the Shepherd - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
 Fighter Arcane Archer - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 Fighter Cavalier - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
 Monk Way of the Kensei - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 Paladin Oath of Conquest - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
+Ranger Horizon Walker - [Link](http://media.wizards.com/2016/dnd/downloads/2017_01_UA_RangerRogue_0117JCMM.pdf)<br/>
+Rogue Inquisitive - [Link](http://dnd.wizards.com/sites/default/files/media/upload/articles/UA%20Gothic%20Characters.pdf)<br/>
 Sorcerer Favored Soul - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
 Warlock Celestial (these invocations are fine as well) - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
 
