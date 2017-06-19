@@ -6,6 +6,8 @@ This website is still under construction. Please understand if there is missing 
 
 [D&D Table Rules](TableRules.md)
 
+[Quick Link to Character Class Options](pdf/CharOpts.pdf). This will be expanded over time.
+
 [My Campaign Setting (WIP)](Setting.md)
 
 [OI! Sean and Javy! Click here for some relevant sheets!](Tuesday.md)
