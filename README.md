@@ -17,3 +17,5 @@ I run 5th edition D&D.
 [Click here for the 5e PHB](https://dnd.rem.uz/5e%20D%26D%20Books/Rulebooks/Core/Player%27s%20Handbook.pdf).
 
 This is a massive file, so you need to be patient. Open it once, and download for future use. If you want to buy it [Amazon has some pretty good deals](https://www.amazon.com/Players-Handbook-Dungeons-Dragons-Wizards/dp/0786965606), but don't feel obligated in the slightest.
+
+This is an attempt to force a website rebuild, please ignore...
