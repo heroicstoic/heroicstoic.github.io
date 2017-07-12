@@ -57,17 +57,15 @@ As I work on various projects, I will add a sample from them here. Stay tuned fo
 
 </a>
 </section>
+
 <section class="spotlight">
 <div class="image"><a href="about.html"><img src="images/castle.jpg" alt="" /></a></div>
-<div class="content">
-
-<a href="projects.html" class="content" markdown="1">
+<div class="content" markdown="1">
 
 ## About Me
 
 A short bit about my life, hobbys, and the like. I may add more, but I'm not good at talking about myself.
 
-</a>
 </div>
 </section>
 
