@@ -12,7 +12,9 @@ This site is still under construction, but here are a few resources that I have 
 
 ### Table Rules
 
-This is not yet complete, come back later.
+[Head here for my Table Rules.](/dnd/rules/)
+
+The short version is that PHB +1 is fine without modification. I have a few classes that I have modified, in particularm I use the Revised Ranger, and a different Way of the Four Elements. In general, use point buy or standard array for your character's stats.
 
 <hr/>
 

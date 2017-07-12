@@ -1,16 +1,9 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-17 16:16:01 -0600
-categories: jekyll update
+layout: page
+title:  Table Rules
+description: How I Run the Table
+permalink: /dnd/rules/
 ---
-
-# Table Rules for D&D
-
-I run 5th edition D&D! If you want a seat at my table feel free to ask! I do have a few guidelines for playing, so just have a look at my rules and guidelines you should look at before coming to the table.
-
-* TOC
-{:toc}
 
 ## My Style
 
