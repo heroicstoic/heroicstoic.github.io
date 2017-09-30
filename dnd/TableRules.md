@@ -11,6 +11,8 @@ I tend to like a nice, roleplay heavy game. Expect 2-3 combat encounters a night
 
 If this is your first game, and many of the players at the table are also new, I will be using the vanilla initiative. If not, there is an initiative variant that I prefer to use, as it is quicker and more chaotic. I do not use this variant online.
 
+I also like having a session 0. This is basically a session where everyone gets together, makes their characters (or finalize premade characters), discuss the campaign, and get everyone hooked into the campaign. If we got time, we'll also do our intro to the adventure. Of course, if we are doing a one off, don't expect to do any of that.
+
 ## Character Creation
 If this is your first time, don't worry about this. I will run you through character creation, step by step.
 
