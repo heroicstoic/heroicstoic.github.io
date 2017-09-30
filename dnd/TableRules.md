@@ -24,62 +24,41 @@ I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Ad
 
 4d6 drop the lowest, in order. If you don't have 2 stats greater than or equal to 15, reroll them all. If you have no stat lower than 8, your lowest stat becomes an 8. If your lowest stat is CON, and it is less than 8, you may switch it with your next lowest stat.
 
-### Using Other Resources
-Feel free to use anything right out of the PHB. When Xanathar's Guide to Everything is released, it will also likely be usable without restriction. In addition, you can use any one officially published hardcover or the EE player's companion without needing to ask me. If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will probably let it lay.
+### Character Options
+I allow just about anything official, and even some homebrew. Check out [this list](https://www.google.com) for something more substantial, but in short, if you ask, I'll probably allow it. There are just a few exceptions:
 
-### Races
-I allow almost any race in the hardcovers. There are, however, a few caveats.
+- If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will probably let it lay.
+- If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
+- I allow races with flight speed, but with a slight nerf - ranged attacks against flying targets have advantage.
+- Use the REVISED ranger
+- I use a modified version of the Way of the Four Elements and the Path of the Berserker.
 
-If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
+#### Edgelords
+Ah, so your one of those, eh? I know you. You're the Oathbreaker, the Death Cleric. Your that rogue that sits in the back and steals everyone's crap. Your that ranger that just killed the important NPC because they are your favored enemy. I get it - I see what you are doing there. But listen here... no, look me in the eyes. 
 
-I allow races with flight speed, but with a slight nerf - ranged attacks against flying targets have advantage.
-
-### Classes
-Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. I assume you WILL use the revised ranger, as it is strictly speaking better balanced compared to the other classes. Ask me about another brew, and I may expand this list.
-
-**Official Full Classes**<br/>
-Revised Ranger - [Link](https://media.wizards.com/2016/dnd/downloads/UA_RevisedRanger.pdf)<br/>
-Mystic - [Link](http://www.dmsguild.com/product/213033/Unearthed-Arcana-The-Mystic-Class-5e)<br/>
-Artificer - [Link](http://www.dmsguild.com/product/213032/Unearthed-Arcana-The-Artificer-Class-5e)<br/>
-
-**Official UA**<br/>
-Barbarian Path of the Ancestral Guardian - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
-Bard College of Swords - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
-Cleric Forge Domain - [Link](http://media.wizards.com/2016/dnd/downloads/UA_Cleric.pdf)<br/>
-Druid Circle of the Shepherd - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
-Fighter Arcane Archer - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
-Fighter Cavalier - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
-Monk Way of the Kensei - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
-Paladin Oath of Conquest - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
-Ranger Horizon Walker - [Link](http://media.wizards.com/2016/dnd/downloads/2017_01_UA_RangerRogue_0117JCMM.pdf)<br/>
-Rogue Inquisitive - [Link](http://dnd.wizards.com/sites/default/files/media/upload/articles/UA%20Gothic%20Characters.pdf)<br/>
-Sorcerer Favored Soul - [Link](https://media.wizards.com/2017/dnd/downloads/UA-RevisedSubclasses.pdf)<br/>
-Warlock Celestial (these invocations are fine as well) - [Link](http://media.wizards.com/2017/dnd/downloads/June5UA_RevisedClassOptv1.pdf)<br/>
-
-**Crowdsourced Homebrews**<br/>
-Monk Way of the Four Elements : Remastered - [Link](pdf/wayof4elements_remastered.pdf)<br/>
-
-### Backgrounds
-I do not care in the slightest if you follow the PHB customization options, or if you use a SCAG background under any circumstances, even if you already are using another source.
+Are you in an evil campaign? Are you working for the team? Have stopped being annoying when asked? If not, STAHP. We are trying to work together, and no matter how much you want to be the guy who betrays the whole team out of the blue, and makes away with all the loot - NO ONE LIKES A JERK. So, would you kindly bear in mind that your evil, antisocial, or psychotic behaviours can exist on a plane with everyone else's character. (A lot of this can be addressed in session 0, just remember ok?)
 
 ## House Rules
-I try to stick to the Rules As Written (RAW) most of the time. I do not try to "rules lawyer", but if I am not currently DMing (in between games), I will tend to go with the sage advice in most cases.
+I try to stick to the Rules As Written (RAW) most of the time. I am working on not "rules lawyer"-ing the game, but if I am not currently DMing (in between games), I will tend to go with the sage advice in most cases.
 
-However, I do like a "Grayhawk"-esque initiative variant, as it makes DEX less of a god tier stat, and adds a lot of chaos to fights. Here is the simple version. At the start of a turn, decide what you want to do. Each type of action has a particular dice associated with it.
+However, I do like a ["Grayhawk"-esque initiative](https://media.wizards.com/2017/dnd/downloads/UAGreyhawkInitiative.pdf) variant, as it makes DEX less of a god tier stat, and adds a lot of chaos to fights. We will decide at session 0 whether to use Greyhawk or vanilla for each campaign. Here is the simple version: 
 
+At the start of a turn, decide what you want to do. Each type of action has a particular dice associated with it.
+
+| Nothing | d1 |
 | Moving and/or Free Action | d4 |
 | Bonus Action (not a spell) | d6 |
 | Action (not a spell)| d8 |
 | Bonus Action Spell | d10 |
 | Action Spell | d12 |
 
-Roll all the dice associated with the actions you wish to take, and add them up. You may still only take one action and one bonus action, even if you are casting a spell. Add up the results of all the rolls. Then, I will call out numbers starting at 1 until everyone has gone.
+Roll all the dice associated with the actions you wish to take (only ever one of each), and add up the rolls (no bonuses apply here). You may still only take one action and one bonus action, even if you are casting a spell. Then, I will call out numbers starting at 1 until everyone has gone. You cannot ready action, but you can delay your entire initiative as you would a ready action.
 
 If you need to do more in your turn than you originally planned, roll the required dice and add it to your current total. Once you have rolled a dice, however, you do not get to remove them from the total. For instance, if you wanted to hit a person, but then they moved away, you can roll a d4 to move as well. However, if you were going to move, but the person closes the distance before you get a turn, you do not get to remove the d4 from your total.
 
-You don't need to make a new roll if it is the action category. For instance, if were going to cast Burning Hands, but then decide to cast Magic Missile, you don't have to roll again. If you were going to attack, but then decide to dodge, you do not need to roll again. However, if you were going to attack, and then decide to cast Magic Missile, you do need to roll again.
+You don't need to make a new roll if it is the action category. For instance, if were going to cast Burning Hands, but then decide to cast Magic Missile, you don't have to roll again. If you were going to attack, but then decide to dodge, you do not need to roll again. However, if you were going to attack, and then decide to cast Magic Missile, you will need to add a d12 roll to your initiative.
 
-A few abilities give you a bonus to your initiative. These are handled on a case by case basis. I will provide a conversion page once I have them all prepared.
+Advantage and disadvantage work as you might expect - roll 2 of each dice and take the better roll. A few abilities give you a straight bonus to your initiative, and others give you penalties. If you have an improvement, you can improve the initiative dice (e.g. d6 -> d4). Similarly, if you have a penalty, you select the next largest dice (e.g. d6 -> d8). A roll cannot be brought above a d12, or below a d4.
 
 ## Etiquitte
 ##### 1) Please be kind to the fellow players and their playstyles
