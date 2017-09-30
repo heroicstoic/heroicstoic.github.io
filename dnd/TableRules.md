@@ -27,7 +27,7 @@ I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Ad
 4d6 drop the lowest, in order. If you don't have 2 stats greater than or equal to 15, reroll them all. If you have no stat lower than 8, your lowest stat becomes an 8. If your lowest stat is CON, and it is less than 8, you may switch it with your next lowest stat.
 
 ### Character Options
-I allow just about anything official, and even some homebrew. Check out [this list](https://www.google.com) for something more substantial, but in short, if you ask, I'll probably allow it. There are just a few exceptions:
+I allow just about anything official, and even some homebrew. Check out [this list](/dnd/options/) for something more substantial, but in short, if you ask, I'll probably allow it. There are just a few exceptions:
 
 - If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will probably let it lay.
 - If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
