@@ -32,7 +32,7 @@ I allow almost any race in the hardcovers. There are, however, a few caveats.
 
 If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
 
-I allow races with flight speed, but with a slight nerf. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft. (Pulled from Eagle Totem barbarian)
+I allow races with flight speed, but with a slight nerf - ranged attacks against flying targets have advantage.
 
 ### Classes
 Feel free to use whatever you want out of the PHB (duh). Additionally, there are a number of classes that I have already approved for use in my campaigns. I assume you WILL use the revised ranger, as it is strictly speaking better balanced compared to the other classes. Ask me about another brew, and I may expand this list.
@@ -65,7 +65,7 @@ I do not care in the slightest if you follow the PHB customization options, or i
 ## House Rules
 I try to stick to the Rules As Written (RAW) most of the time. I do not try to "rules lawyer", but if I am not currently DMing (in between games), I will tend to go with the sage advice in most cases.
 
-However, I do like a "Mike Mearls"-esque initiative variant, as it makes DEX less of a god tier stat, and adds a lot of chaos to fights. Here is the simple version. At the start of a turn, decide what you want to do. Each type of action has a particular dice associated with it.
+However, I do like a "Grayhawk"-esque initiative variant, as it makes DEX less of a god tier stat, and adds a lot of chaos to fights. Here is the simple version. At the start of a turn, decide what you want to do. Each type of action has a particular dice associated with it.
 
 | Moving and/or Free Action | d4 |
 | Bonus Action (not a spell) | d6 |
