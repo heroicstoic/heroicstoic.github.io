@@ -33,10 +33,10 @@ I allow just about anything official, and even some homebrew. Check out [this li
 - If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
 - I allow races with flight speed, but with a slight nerf - ranged attacks against flying targets have advantage.
 - Use the REVISED ranger
-- I use a modified version of the Way of the Four Elements and the Path of the Berserker.
+- I use a modified version of the Way of the Four Elements and, to a lesser extent, the Berserker Path and Wild Magic.
 
 #### Edgelords
-Ah, so your one of those, eh? I know you. You're the Oathbreaker, the Death Cleric. Your that rogue that sits in the back and steals everyone's crap. Your that ranger that just killed the important NPC because they are your favored enemy. I get it - I see what you are doing there. But listen here... no, look me in the eyes. 
+Ah, so your one of those, eh? I know you. You're the Oathbreaker, the Death Cleric. You're that rogue that sits in the back and steals everyone's crap. You're that ranger that just killed the important NPC because they are your favored enemy. I get it - I see what you are doing there. But listen here... no, look me in the eyes. 
 
 Are you in an evil campaign? Are you working for the team? Have stopped being annoying when asked? If not, STAHP. We are trying to work together, and no matter how much you want to be the guy who betrays the whole team out of the blue, and makes away with all the loot - NO ONE LIKES A JERK. So, would you kindly bear in mind that your evil, antisocial, or psychotic behaviours can exist on a plane with everyone else's character. (A lot of this can be addressed in session 0, just remember ok?)
 
