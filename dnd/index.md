@@ -20,7 +20,7 @@ The short version is that PHB +1 is fine without modification. In general, use p
 
 <hr/>
 
-### Table Resources and Character Options
+### Table Resources
 
 Due to the need for a more well defined resource for all character options, I have elected to reproduce all character options currently accepted at my table. However, due to copyright restrictions, I must ask that you neither reproduce these files, nor share them with anyone not at the table. This will include all PHB options, some Unearthed Arcana Options, and on special occasion, even a homebrew or two. Ask me, and I may even expand this list.
 
