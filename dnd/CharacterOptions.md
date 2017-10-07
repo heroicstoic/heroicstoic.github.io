@@ -22,7 +22,26 @@ Let's get down to business. These are all the legal options for making a charact
 |**Tabaxi**|**Tortle**|**Triton**|**Tiefling**|**Variant Tiefling**|
 |**Warforged**| | | |
 
-The below will only be available if the table agrees to allow them
+## Classes
+Options with a \* have been slightly modified, and ones with a \*\* have been largely rebuilt (but still playtested for quality).
+### Barbarian
+|Path of the Berserker (PHB) | Path of the Totem Warrior (PHB) | Path of the Battlerager (SCAG)
+|:---:|:---:|:---:|
+|**Path of the Ancestral Guardian (UA)**|**Path of the Storm Herald (UA)**|**Path of the Zealot (UA)**|
+
+### Bard
+| College of Lore (PHB) | College of Valor (PHB) | College of Glamor (UA) |
+|:---:|:---:|:---:|
+|**College of Satire (UA)**|**College of Swords (UA)**|**College of Whispers (UA)**|
+
+### Cleric
+|Knowledge Domain (PHB)|Life Domain (PHB)|Light Domain (PHB)|
+|:---:|:---:|:---:|
+|**Nature Domain (PHB)**|**Tempest Domain (PHB)**|**Trickery Domain (PHB)**|
+|**War Domain (PHB)**|**Arcana Domain (SCAG)**|**Forge Domain (UA)**|
+|**Grave Domain (UA)**|**Protection Domain (UA)**|**Death Domain (DMG)**|
+
+The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
 ### Homebrew Races
 | Frostkin | Merdhrai | Forest Silva | Jungle Silva |
 |:---:|:---:|:---:|:---:|
