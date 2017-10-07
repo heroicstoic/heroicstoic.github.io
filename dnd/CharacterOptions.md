@@ -19,9 +19,10 @@ Let's get down to business. These are all the legal options for making a charact
 |**Lightfoot Halfling**|**Ghostwise Halfling**|**Human**|**Variant Human**|
 |**Kenku**|**Lizardfolk**|**Beasthide Shifter**|**Cliffwalk Shifter**|
 |**Longstride Shifter**|**Longtooth Shifter**|**Razorclaw Shifter**|**Wildhunt Shifter**|
-|**Tabaxi**|**Triton**|**Tiefling**|**Variant Tiefling**|**Warforged**|
+|**Tabaxi**|**Tortle**|**Triton**|**Tiefling**|**Variant Tiefling**|
+|**Warforged**| | | |
 
 The below will only be available if the table agrees to allow them
 ### Homebrew Races
-| Frostkin | Medrahi | Forest Silva | Jungle Silva |
+| Frostkin | Merdhrai | Forest Silva | Jungle Silva |
 |:---:|:---:|:---:|:---:|
