@@ -76,7 +76,7 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 |**Scout (UA)**| | |
 
 ### Sorcerer
-|Draconic Bloodline (PHB)|Wild Magic (PHB)|Storm Sorcery (SCAG)|
+|Draconic Bloodline (PHB)|Wild Magic (PHB)\*|Storm Sorcery (SCAG)|
 |:---:|:---:|:---:|
 |**Favored Soul (UA)**|**Phoenix Sorcery (UA)**|**Sea Sorcery (UA)**|
 |**Shadow (UA)**|**Stone Sorcery (UA)**| |
@@ -88,10 +88,10 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 |**The Raven Queen (UA)**|**The Seeker (UA)**| |
 
 ### Wizard
-|School of Abjuration (PHB)|School of Conjuration (PHB)|School of Divination (PHB)|
 |:---:|:---:|:---:|
+|**School of Abjuration (PHB)**|**School of Conjuration (PHB)**|**School of Divination (PHB)**|
 |**School of Enchantment (PHB)**|**School of Evocation (PHB)**|**School of Illusion (PHB)**|
-|**School of Necromancy (PHB)**|**School of Transmutation (PHB)**|**Bladesinger (SCAG)**|
+|**School of Necromancy (PHB)**|**School of Transmutation (PHB)**|**Bladesinger (SCAG)\***|
 |**Lore Mastery (UA)**|**War Magic (UA)**| |
 
 The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
