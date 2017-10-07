@@ -25,4 +25,3 @@ The below will only be available if the table agrees to allow them
 ### Homebrew Races
 | Frostkin | Medrahi | Forest Silva | Jungle Silva |
 |:---:|:---:|:---:|:---:|
-|**Changeling** | **Hill Dwarf** | **Mountain Dwarf** | **Grey Dwarf (Duergar)** |
