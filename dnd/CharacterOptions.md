@@ -8,19 +8,80 @@ Let's get down to business. These are all the legal options for making a charact
 
 ## Races
 ### Official Races
-| Aarackocra | Protector Aasimar | Scourge Aasimar | Fallen Aasimar |
-|:---:|:---:|:---:|:---:|
-|**Changeling** | **Hill Dwarf** | **Mountain Dwarf** | **Grey Dwarf (Duergar)** |
-|**Dragonborn**|**High Elf**|**Wood Elf** | **Dark Elf (Drow)**|
-|**Wild Elf (Eladrin)**|**Firbolg**|**Air Genasi**|**Earth Genasi**|
-|**Fire Genasi**|**Water Genasi**|**Githyanki**|**Githzerai**|
-|**Goliath**|**Forest Gnome**|**Rock Gnome**|**Deep Gnome (Svirfneblin)**|
-|**Half-Elf**|**Variant Half-Elf**|**Half-Orc**|**Stout Halfling**|
-|**Lightfoot Halfling**|**Ghostwise Halfling**|**Human**|**Variant Human**|
-|**Kenku**|**Lizardfolk**|**Beasthide Shifter**|**Cliffwalk Shifter**|
-|**Longstride Shifter**|**Longtooth Shifter**|**Razorclaw Shifter**|**Wildhunt Shifter**|
-|**Tabaxi**|**Tortle**|**Triton**|**Tiefling**|**Variant Tiefling**|
-|**Warforged**| | | |
+<table class="tg">
+  <tr>
+    <td>Aarackocra</td>
+    <td> Protector Aasimar</td>
+    <td>Scourge Aasimar</td>
+    <td>Fallen Aasimar</td>
+  </tr>
+  <tr>
+    <td>Changeling</td>
+    <td>Hill Dwarf</td>
+    <td>Mountain Dwarf</td>
+    <td>Grey Dwarf (Duergar)</td>
+  </tr>
+  <tr>
+    <td>Dragonborn</td>
+    <td>High Elf</td>
+    <td>Wood Elf</td>
+    <td>Dark Elf (Drow)</td>
+  </tr>
+  <tr>
+    <td>Wild Elf (Eladrin)</td>
+    <td>Firbolg</td>
+    <td>Air Genasi</td>
+    <td>Earth Genasi</td>
+  </tr>
+  <tr>
+    <td>Fire Genasi</td>
+    <td>Water Genasi</td>
+    <td>Githyanki</td>
+    <td>Githzerai</td>
+  </tr>
+  <tr>
+    <td>Goliath</td>
+    <td>Forest Gnome</td>
+    <td>Rock Gnome</td>
+    <td>Deep Gnome (Svirfneblin)</td>
+  </tr>
+  <tr>
+    <td>Half-Elf</td>
+    <td>Variant Half-Elf</td>
+    <td>Half-Orc</td>
+    <td>Stout Halfling</td>
+  </tr>
+  <tr>
+    <td>Lightfoot Halfling</td>
+    <td>Ghostwise Halfling</td>
+    <td>Human</td>
+    <td>Variant Human</td>
+  </tr>
+  <tr>
+    <td>Kenku</td>
+    <td>Lizardfolk</td>
+    <td>Beasthide Shifter</td>
+    <td>Cliffwalk Shifter</td>
+  </tr>
+  <tr>
+    <td>Longstride Shifter</td>
+    <td>Longtooth Shifter</td>
+    <td>Razorclaw Shifter</td>
+    <td>Wildhunt Shifter</td>
+  </tr>
+  <tr>
+    <td>Tabaxi</td>
+    <td>Tortle</td>
+    <td>Triton</td>
+    <td>Tiefling</td>
+  </tr>
+  <tr>
+    <td>Variant Tiefling</td>
+    <td>Warforged</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ## Classes
 Options with a \* have been slightly modified, and ones with a \*\* have been largely rebuilt (but still playtested for quality). This is only ever to increase power - buffing feels better than nerfing in my opinion, and we all want to have fun here.
