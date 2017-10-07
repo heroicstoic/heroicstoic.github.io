@@ -23,9 +23,9 @@ Let's get down to business. These are all the legal options for making a charact
 |**Warforged**| | | |
 
 ## Classes
-Options with a \* have been slightly modified, and ones with a \*\* have been largely rebuilt (but still playtested for quality).
+Options with a \* have been slightly modified, and ones with a \*\* have been largely rebuilt (but still playtested for quality). This is only ever to increase power - buffing feels better than nerfing in my opinion, and we all want to have fun here.
 ### Barbarian
-|Path of the Berserker (PHB) | Path of the Totem Warrior (PHB) | Path of the Battlerager (SCAG)
+|Path of the Berserker (PHB)\* | Path of the Totem Warrior (PHB) | Path of the Battlerager (SCAG)\*|
 |:---:|:---:|:---:|
 |**Path of the Ancestral Guardian (UA)**|**Path of the Storm Herald (UA)**|**Path of the Zealot (UA)**|
 
@@ -40,6 +40,25 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 |**Nature Domain (PHB)**|**Tempest Domain (PHB)**|**Trickery Domain (PHB)**|
 |**War Domain (PHB)**|**Arcana Domain (SCAG)**|**Forge Domain (UA)**|
 |**Grave Domain (UA)**|**Protection Domain (UA)**|**Death Domain (DMG)**|
+
+### Druid
+|Circle of the Land (PHB)|Circle of the Moon (PHB)|Circle of Dreams (UA)|
+|:---:|:---:|:---:|
+|**Circle of the Shepherd (UA)**|**Circle of Twilight (UA)**| |
+
+### Fighter
+|Champion (PHB)|Battlemaster (PHB)|Eldritch Knight (PHB)
+|:---:|:---:|:---:|
+|**Purple Dragon Knight (SCAG)**|**Arcane Archer (UA)**|**Cavalier (UA)**|
+|**Knight (UA)**|**Monster Hunter (UA)**|**Samurai (UA)**|
+
+### Monk
+|Way of the Open Fist (PHB)|Way of the Shadow (PHB)|Way of the Four Elements (PHB)\*\*|
+|:---:|:---:|:---:|
+|**Way of the Sun Soul (SCAG)**|**Way of the Long Death (SCAG)**|**Way of the Drunken Master (UA)**|
+|**Way of the Kensai (UA)**|**Way of Tranquility (UA)**|**Way of the Four Elements (HB)**|
+
+
 
 The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
 ### Homebrew Races
