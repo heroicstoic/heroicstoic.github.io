@@ -83,7 +83,7 @@ Let's get down to business. These are all the legal options for making a charact
   </tr>
 </table>
 
-## Classes
+## Official Classes
 Options with a \* have been slightly modified, and ones with a \*\* have been largely rebuilt (but still playtested for quality). This is only ever to increase power - buffing feels better than nerfing in my opinion, and we all want to have fun here.
 
 ### Barbarian
@@ -168,9 +168,24 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 <tr><td>Lore Mastery (UA)</td><td>War Magic (UA)</td></tr>
 </table>
 
+## Official Spells
+Any PHB Spells, Elemental Evil spells, and the [UA Starter Spells](https://media.wizards.com/2017/dnd/downloads/UA-Starter-Spells.pdf).
+
+## Official Feats
+Any PHB Feat is allowed. Ask before using any Unearthed Arcana feat (some are very poorly designed).
+
 The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
 
-### Homebrew Races
+## Homebrew Races
 <table>
   <tr><td>Frostkin</td><td>Merdhrai</td><td>Forest Silva</td><td>Jungle Silva</td></tr>
 </table>
+
+## Homebrewed Classes
+### Artificer (Revised)
+<table>
+<tr><td>Alchemist (HB)</td><td>Mechanist (HB)</td><td>Gunsmith (HB)</td></tr>
+</table>
+
+## Homebrewed Feats
+[Wardrow's Feat Compendium 2.2](https://drive.google.com/file/d/0B3fJRdxUJqHCeDZFM0szRDJHNEU/view) is by far the best single resource I know of. I use it if I can, but you cannot select one of these at level 1 as a variant human.
