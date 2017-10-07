@@ -144,6 +144,7 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 <tr><td>Assassin (PHB)	</td><td>Thief (PHB)</td><td>	Arcane Trickster (PHB)</td></tr>
 <tr><td>Swashbuckler (SCAG)	</td><td>Mastermind (SCAG)	</td><td>Inquisitive (UA)</td></tr>
 <tr><td>Scout (UA)</td></tr>
+</table>
 
 ### Sorcerer
 <table>
