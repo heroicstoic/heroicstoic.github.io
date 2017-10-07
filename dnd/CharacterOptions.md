@@ -112,7 +112,6 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 <tr><td>Circle of the Shepherd (UA)</td><td>	Circle of Twilight (UA)	</td></tr>
 
 ### Fighter
-
 <table>
 <tr><td>Champion (PHB)</td><td>	Battlemaster (PHB)</td><td>	Eldritch Knight (PHB)</td></tr>
 <tr><td>Purple Dragon Knight (SCAG)</td><td>	Arcane Archer (UA)</td><td>	Cavalier (UA)</td></tr>
@@ -120,7 +119,6 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 </table>
 
 ### Monk
-
 <table>
 <tr><td>Way of the Open Fist (PHB)</td><td>	Way of the Shadow (PHB)</td><td>	Way of the Four Elements (PHB)**</td></tr>
 <tr><td>Way of the Sun Soul (SCAG)</td><td>	Way of the Long Death (SCAG)</td><td>	Way of the Drunken Master (UA)</td></tr>
@@ -128,7 +126,6 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 </table>
 
 ### Paladin
-
 <table>
 <tr><td>Oath of Devotion (PHB)</td><td>	Oath of Ancients (PHB)</td><td>	Oath of Vengeance (PHB)</td></tr>
 <tr><td>Oath of the Crown (SCAG)</td><td>	Oath of Conquest (UA)	Oath of Redemption (UA)</td></tr>
@@ -136,21 +133,18 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 </table>
 
 ### Ranger (Revised)
-
 <table>
 <tr><td>Beast Conclave (UA)	</td><td>Hunter Conclave (UA)</td><td>	Deep Stalker Conclave (UA)</td></tr>
 <tr><td>Horizon Walker Conclave (UA)</td><td>	Slayer Conclave (UA)</td><td>Primeval Guardian Conclave (UA)</td></tr>
 </table>
 
 ### Rogue
-
 <table>
 <tr><td>Assassin (PHB)	</td><td>Thief (PHB)</td><td>	Arcane Trickster (PHB)</td></tr>
 <tr><td>Swashbuckler (SCAG)	</td><td>Mastermind (SCAG)	</td><td>Inquisitive (UA)</td></tr>
 <tr><td>Scout (UA)</td></tr>
 
 ### Sorcerer
-
 <table>
 <tr><td>Draconic Bloodline (PHB)</td><td>Wild Magic (PHB)*</td><td>Storm Sorcery (SCAG)</td></tr>
 <tr><td>Favored Soul (UA)</td><td>	Phoenix Sorcery (UA)</td><td>	Sea Sorcery (UA)</td></tr>
@@ -158,7 +152,6 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 </table>
 
 ### Warlock
-
 <table>
 <tr><td>The Archfey (PHB)	</td><td>The Fiend (PHB)</td><td>	The Great Old One (PHB)</td></tr>
 <tr><td>The Undying (SCAG)	</td><td>The Celestial (UA)	</td><td>The Hexblade (UA)</td></tr>
@@ -174,8 +167,8 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 </table>
 
 The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
-### Homebrew Races
 
+### Homebrew Races
 <table>
   <tr><td>Frostkin</td><td>Merdhrai</td><td>Forest Silva</td><td>Jungle Silva</td></tr>
 </table>
