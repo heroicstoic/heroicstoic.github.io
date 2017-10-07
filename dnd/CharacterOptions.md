@@ -110,6 +110,7 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 <table>
 <tr><td>Circle of the Land (PHB)</td><td>	Circle of the Moon (PHB)</td><td>	Circle of Dreams (UA)</td></tr>
 <tr><td>Circle of the Shepherd (UA)</td><td>	Circle of Twilight (UA)	</td></tr>
+</table>
 
 ### Fighter
 <table>
