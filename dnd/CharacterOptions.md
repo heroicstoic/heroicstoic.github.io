@@ -86,74 +86,90 @@ Let's get down to business. These are all the legal options for making a charact
 ## Classes
 Options with a \* have been slightly modified, and ones with a \*\* have been largely rebuilt (but still playtested for quality). This is only ever to increase power - buffing feels better than nerfing in my opinion, and we all want to have fun here.
 ### Barbarian
-|Path of the Berserker (PHB)\* | Path of the Totem Warrior (PHB) | Path of the Battlerager (SCAG)\*|
-|:---:|:---:|:---:|
-|**Path of the Ancestral Guardian (UA)**|**Path of the Storm Herald (UA)**|**Path of the Zealot (UA)**|
+<table>
+  <tr>
+    <td>Path of the Berserker (PHB)*</td><td>	Path of the Totem Warrior (PHB)</td><td>	Path of the Battlerager (SCAG)*</td>
+  </tr>
+  <tr>
+    <td> Path of the Ancestral Guardian (UA)</td><td>	Path of the Storm Herald (UA)</td><td>	Path of the Zealot (UA)</td>
+  </tr>
+</table>
 
-### Bard
-| College of Lore (PHB) | College of Valor (PHB) | College of Glamor (UA) |
-|:---:|:---:|:---:|
-|**College of Satire (UA)**|**College of Swords (UA)**|**College of Whispers (UA)**|
+Bard
 
-### Cleric
-|Knowledge Domain (PHB)|Life Domain (PHB)|Light Domain (PHB)|
-|:---:|:---:|:---:|
-|**Nature Domain (PHB)**|**Tempest Domain (PHB)**|**Trickery Domain (PHB)**|
-|**War Domain (PHB)**|**Arcana Domain (SCAG)**|**Forge Domain (UA)**|
-|**Grave Domain (UA)**|**Protection Domain (UA)**|**Death Domain (DMG)**|
+<table>
+  <tr>
+College of Lore (PHB)	College of Valor (PHB)	College of Glamor (UA)
+College of Satire (UA)	College of Swords (UA)	College of Whispers (UA)
 
-### Druid
-|Circle of the Land (PHB)|Circle of the Moon (PHB)|Circle of Dreams (UA)|
-|:---:|:---:|:---:|
-|**Circle of the Shepherd (UA)**|**Circle of Twilight (UA)**| |
+Cleric
 
-### Fighter
-|Champion (PHB)|Battlemaster (PHB)|Eldritch Knight (PHB)
-|:---:|:---:|:---:|
-|**Purple Dragon Knight (SCAG)**|**Arcane Archer (UA)**|**Cavalier (UA)**|
-|**Knight (UA)**|**Monster Hunter (UA)**|**Samurai (UA)**|
+<table>
+  <tr>
+Knowledge Domain (PHB)	Life Domain (PHB)	Light Domain (PHB)
+Nature Domain (PHB)	Tempest Domain (PHB)	Trickery Domain (PHB)
+War Domain (PHB)	Arcana Domain (SCAG)	Forge Domain (UA)
+Grave Domain (UA)	Protection Domain (UA)	Death Domain (DMG)
+Druid
 
-### Monk
-|Way of the Open Fist (PHB)|Way of the Shadow (PHB)|Way of the Four Elements (PHB)\*\*|
-|:---:|:---:|:---:|
-|**Way of the Sun Soul (SCAG)**|**Way of the Long Death (SCAG)**|**Way of the Drunken Master (UA)**|
-|**Way of the Kensai (UA)**|**Way of Tranquility (UA)**| |
+<table>
+  <tr>
+Circle of the Land (PHB)	Circle of the Moon (PHB)	Circle of Dreams (UA)
+Circle of the Shepherd (UA)	Circle of Twilight (UA)	
+Fighter
 
-### Paladin
-|Oath of Devotion (PHB)|Oath of Ancients (PHB)|Oath of Vengeance (PHB)|
-|:---:|:---:|:---:|
-|**Oath of the Crown (SCAG)**|**Oath of Conquest (UA)**|**Oath of Redemption (UA)**|
-|**Oath of Treachery (UA)**|**Oathbreaker (DMG)**| |
+<table>
+  <tr>
+Champion (PHB)	Battlemaster (PHB)	Eldritch Knight (PHB)
+Purple Dragon Knight (SCAG)	Arcane Archer (UA)	Cavalier (UA)
+Knight (UA)	Monster Hunter (UA)	Samurai (UA)
+Monk
 
-### Ranger (Revised)
-|Beast Conclave (UA)|Hunter Conclave (UA)|Deep Stalker Conclave (UA)|
-|:---:|:---:|:---:|
-|**Horizon Walker Conclave (UA)**|**Slayer Conclave (UA)**|**Primeval Guardian Conclave (UA)**|
+<table>
+  <tr>
+Way of the Open Fist (PHB)	Way of the Shadow (PHB)	Way of the Four Elements (PHB)**
+Way of the Sun Soul (SCAG)	Way of the Long Death (SCAG)	Way of the Drunken Master (UA)
+Way of the Kensai (UA)	Way of Tranquility (UA)	
+Paladin
 
-### Rogue
-|Assassin (PHB)|Thief (PHB)|Arcane Trickster (PHB)|
-|:---:|:---:|:---:|
-|**Swashbuckler (SCAG)**|**Mastermind (SCAG)**|**Inquisitive (UA)**|
-|**Scout (UA)**| | |
+Oath of Devotion (PHB)	Oath of Ancients (PHB)	Oath of Vengeance (PHB)
+Oath of the Crown (SCAG)	Oath of Conquest (UA)	Oath of Redemption (UA)
+Oath of Treachery (UA)	Oathbreaker (DMG)	
+Ranger (Revised)
 
-### Sorcerer
-|Draconic Bloodline (PHB)|Wild Magic (PHB)\*|Storm Sorcery (SCAG)|
-|:---:|:---:|:---:|
-|**Favored Soul (UA)**|**Phoenix Sorcery (UA)**|**Sea Sorcery (UA)**|
-|**Shadow (UA)**|**Stone Sorcery (UA)**| |
+<table>
+  <tr>
+Beast Conclave (UA)	Hunter Conclave (UA)	Deep Stalker Conclave (UA)
+Horizon Walker Conclave (UA)	Slayer Conclave (UA)	Primeval Guardian Conclave (UA)
+Rogue
 
-### Warlock
-|The Archfey (PHB)|The Fiend (PHB)|The Great Old One (PHB)|
-|:---:|:---:|:---:|
-|**The Undying (SCAG)**|**The Celestial (UA)**|**The Hexblade (UA)**|
-|**The Raven Queen (UA)**|**The Seeker (UA)**| |
+<table>
+  <tr>
+Assassin (PHB)	Thief (PHB)	Arcane Trickster (PHB)
+Swashbuckler (SCAG)	Mastermind (SCAG)	Inquisitive (UA)
+Scout (UA)		
+Sorcerer
+
+<table>
+  <tr>
+Draconic Bloodline (PHB)	Wild Magic (PHB)*	Storm Sorcery (SCAG)
+Favored Soul (UA)	Phoenix Sorcery (UA)	Sea Sorcery (UA)
+Shadow (UA)	Stone Sorcery (UA)	
+Warlock
+
+<table>
+  <tr>
+The Archfey (PHB)	The Fiend (PHB)	The Great Old One (PHB)
+The Undying (SCAG)	The Celestial (UA)	The Hexblade (UA)
+The Raven Queen (UA)	The Seeker (UA)	
 
 ### Wizard
-|:---:|:---:|:---:|
-|**School of Abjuration (PHB)**|**School of Conjuration (PHB)**|**School of Divination (PHB)**|
-|**School of Enchantment (PHB)**|**School of Evocation (PHB)**|**School of Illusion (PHB)**|
-|**School of Necromancy (PHB)**|**School of Transmutation (PHB)**|**Bladesinger (SCAG)\***|
-|**Lore Mastery (UA)**|**War Magic (UA)**| |
+<table>
+<tr><td>School of Abjuration (PHB)</td><td>School of Conjuration (PHB)</td><td>School of Divination (PHB)</td></tr>
+<tr><td>School of Enchantment (PHB)</td><td>School of Evocation (PHB)</td><td>School of Illusion (PHB)</td></tr>
+<tr><td>School of Necromancy (PHB)</td><td>School of Transmutation (PHB)</td><td>Bladesinger (SCAG)\*</td></tr>
+<tr><td>Lore Mastery (UA)</td><td>War Magic (UA)</td></tr>
+</table>
 
 The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
 ### Homebrew Races
