@@ -36,4 +36,4 @@ In an attempt to keep the chance of retribution as low as possible, I will not b
 
 Select your campaign for some quick resources. This section is not yet complete, please check back later.
 
-##### Tuesday Nights - Tales from the Yawning Portal
+##### I am not currently running any games, but I play on Tuesdays at Clockwork
