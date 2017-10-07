@@ -56,9 +56,43 @@ Options with a \* have been slightly modified, and ones with a \*\* have been la
 |Way of the Open Fist (PHB)|Way of the Shadow (PHB)|Way of the Four Elements (PHB)\*\*|
 |:---:|:---:|:---:|
 |**Way of the Sun Soul (SCAG)**|**Way of the Long Death (SCAG)**|**Way of the Drunken Master (UA)**|
-|**Way of the Kensai (UA)**|**Way of Tranquility (UA)**|**Way of the Four Elements (HB)**|
+|**Way of the Kensai (UA)**|**Way of Tranquility (UA)**| |
 
+### Paladin
+|Oath of Devotion (PHB)|Oath of Ancients (PHB)|Oath of Vengeance (PHB)|
+|:---:|:---:|:---:|
+|**Oath of the Crown (SCAG)**|**Oath of Conquest (UA)**|**Oath of Redemption (UA)**|
+|**Oath of Treachery (UA)**|**Oathbreaker (DMG)**| |
 
+### Ranger (Revised)
+|Beast Conclave (UA)|Hunter Conclave (UA)|Deep Stalker Conclave (UA)|
+|:---:|:---:|:---:|
+|**Horizon Walker Conclave (UA)**|**Slayer Conclave (UA)**|**Primeval Guardian Conclave (UA)**|
+
+### Rogue
+|Assassin (PHB)|Thief (PHB)|Arcane Trickster (PHB)|
+|:---:|:---:|:---:|
+|**Swashbuckler (SCAG)**|**Mastermind (SCAG)**|**Inquisitive (UA)**|
+|**Scout (UA)**| | |
+
+### Sorcerer
+|Draconic Bloodline (PHB)|Wild Magic (PHB)|Storm Sorcery (SCAG)|
+|:---:|:---:|:---:|
+|**Favored Soul (UA)**|**Phoenix Sorcery (UA)**|**Sea Sorcery (UA)**|
+|**Shadow (UA)**|**Stone Sorcery (UA)**| |
+
+### Warlock
+|The Archfey (PHB)|The Fiend (PHB)|The Great Old One (PHB)|
+|:---:|:---:|:---:|
+|**The Undying (SCAG)**|**The Celestial (UA)**|**The Hexblade (UA)**|
+|**The Raven Queen (UA)**|**The Seeker (UA)**| |
+
+### Wizard
+|School of Abjuration (PHB)|School of Conjuration (PHB)|School of Divination (PHB)|
+|:---:|:---:|:---:|
+|**School of Enchantment (PHB)**|**School of Evocation (PHB)**|**School of Illusion (PHB)**|
+|**School of Necromancy (PHB)**|**School of Transmutation (PHB)**|**Bladesinger (SCAG)**|
+|**Lore Mastery (UA)**|**War Magic (UA)**| |
 
 The below will only be available if the table agrees to allow them. These are homebrew options that I have NOT extensively playtested, but seemed to have some promise. They are in the same document as the rest of my character options.
 ### Homebrew Races
