@@ -16,7 +16,7 @@ This site is still under construction, but here are a few resources that I have 
 
 The short version is that PHB +1 is fine without modification. In general, use point buy or standard array for your character's stats, but if you roll, I gotta see it. Finally, don't be a jerk, and we will be just fine. If you want something special, ask me and we can probably cook it up.
 
-[Head here for a full list of character options I allow](/dnd/rules/)
+[Head here for a full list of character options I allow](/dnd/options/)
 
 <hr/>
 
