@@ -16,7 +16,7 @@ This site is still under construction, but here are a few resources that I have 
 
 The short version is that PHB +1 is fine without modification. In general, use point buy or standard array for your character's stats, but if you roll, I gotta see it. Finally, don't be a jerk, and we will be just fine. If you want something special, ask me and we can probably cook it up.
 
-[Head here for a full list of character options I allow](/dnd/rules/)
+[Head here for a full list of character options I allow](/dnd/options/)
 
 <hr/>
 
@@ -24,9 +24,11 @@ The short version is that PHB +1 is fine without modification. In general, use p
 
 Due to the need for a more well defined resource for all character options, I have elected to reproduce all character options currently accepted at my table. However, due to copyright restrictions, I must ask that you neither reproduce these files, nor share them with anyone not at the table. This will include all PHB options, some Unearthed Arcana Options, and on special occasion, even a homebrew or two. Ask me, and I may even expand this list.
 
-#### At present, these resources are still under construction
+At present, the codex contains the full text for all race and class options. It does not have spell descriptions or feats (if you are willing to help, let me know).
 
-Do not upload them to the internet unless otherwise directed. I have paid to have this material myself, so I do not mind sharing it with you, but if these files are released, it is possible my website will be issued a cease and desist for future content.
+##### [Click here to get my personal character codex](/Codex0_1.zip)
+
+Ask me for the password on the file, I'll give it freely. Do not upload these files to the internet unless otherwise directed. I have paid to have this material myself, so I do not mind sharing it with you, but if these files are released, it is possible my website will be issued a cease and desist. I would rather not deal with that right now.
 
 In an attempt to keep the chance of retribution as low as possible, I will not be including any images in my write ups.
 
@@ -37,3 +39,5 @@ In an attempt to keep the chance of retribution as low as possible, I will not b
 Select your campaign for some quick resources. This section is not yet complete, please check back later.
 
 ##### I am not currently running any games, but I play on Tuesdays at Clockwork
+
+##### I am presently attempting to get a group started either Friday night or Saturday morning/afternoon. Let me know if you are interested.

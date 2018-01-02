@@ -29,10 +29,12 @@ I allow the standard array (15, 14, 13, 12, 10, 8) or point buy in all cases. Ad
 ### Character Options
 [Do you want the list? Click here.](/dnd/options/)
 
+[Alternatively, the full text for the races and classes can be found here. Ask me for a password.](/Codex0_1.zip)
+
 I allow just about anything officially published, including UA, and may allow some homebrew. To be brief, if you ask, I'll probably allow it. There are just a few exceptions:
 
-- If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will probably let it lay.
-- If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely.
+- If you want to use more than 1 hardcover, or an Unearthed Arcana or homebrew that I haven't preapproved, or you want to homebrew a little something special, give me a shout, and I will probably try and make it work.
+- If you use Volo's, I would rather you didn't use the monsterous races. You *can* use them, but it tends to either add an inconvenient layer to roleplay interactions, or gets ignored entirely. Ask me before doing so, however.
 - I allow races with flight speed, but with a slight nerf - ranged attacks against flying targets have advantage.
 - Use the REVISED ranger
 - I use a modified version of the Way of the Four Elements and, to a lesser extent, the Berserker Path and Wild Magic.

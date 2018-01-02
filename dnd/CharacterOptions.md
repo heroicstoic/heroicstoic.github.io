@@ -4,9 +4,12 @@ title: Character Options
 description: Who are you?
 permalink: /dnd/options/
 ---
+##### [Full text for the following options can be found here. Ask me for the password.](/Codex0_1.zip)
+
 Let's get down to business. These are all the legal options for making a character in my campaigns.
 
 ## Races
+If you select a race with fly speed, be aware of the following rule I use: When a creature is flying, ranged attacks against that creature are made with advantage.
 ### Official Races
 <table class="tg">
   <tr>
